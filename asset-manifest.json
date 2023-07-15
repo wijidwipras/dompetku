@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dompetku/static/css/main.3cfc07f7.css",
+    "main.js": "/dompetku/static/js/main.a993a50b.js",
+    "static/js/787.5cdb15aa.chunk.js": "/dompetku/static/js/787.5cdb15aa.chunk.js",
+    "index.html": "/dompetku/index.html",
+    "main.3cfc07f7.css.map": "/dompetku/static/css/main.3cfc07f7.css.map",
+    "main.a993a50b.js.map": "/dompetku/static/js/main.a993a50b.js.map",
+    "787.5cdb15aa.chunk.js.map": "/dompetku/static/js/787.5cdb15aa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3cfc07f7.css",
+    "static/js/main.a993a50b.js"
+  ]
+}
